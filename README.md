@@ -1,4 +1,4 @@
-Just a simple project for bootstarping a simple webserver.
+Just a simple project for bootstraping a simple webserver.
 
 After clonning it, run:
 
